@@ -2,7 +2,7 @@
 
 ## Usage
 ```
-cd a2_20171090
+cd Fighter-Jet
 mkdir build
 cd build
 cmake ..
